@@ -1,2 +1,0 @@
-# Subash
-Daemon infestation error
